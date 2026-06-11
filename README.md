@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/locked-in-sweet-silence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Locked In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-sweet-silence/) |
+| **Get License** | [Get a Licensing Quote for Locked In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-sweet-silence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `a5532f42de4d31be1782a39bd1a0669e7e340b330c3bb0ec3709e759c164c083` |
 | **Timestamp** | June 12, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
