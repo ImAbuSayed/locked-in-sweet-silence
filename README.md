@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/locked-in-sweet-silence/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Locked In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-sweet-silence/) |
+| **Get License** | [Obtain a Music License for Locked In Sweet Silence](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/locked-in-sweet-silence/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Your eyes are pulling me across the candle light
+> Our bodies moving closer in the middle of the night
+> I feel the heavy heat when you are standing near
+> Let the rest of the world just slowly disappear
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
